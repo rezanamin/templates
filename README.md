@@ -1,2 +1,0 @@
-# templates
-vRA Templates
