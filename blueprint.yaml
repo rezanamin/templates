@@ -1,6 +1,6 @@
 formatVersion: 1
 name: devops
-verion: 1
+verion: 2
 inputs:
   pgmachine:
     type: object
