@@ -18,4 +18,4 @@ resources:
   Cloud_vSphere_Disk_1:
     type: Cloud.vSphere.Disk
     properties:
-      capacityGb: 1
+      capacityGb: 5
